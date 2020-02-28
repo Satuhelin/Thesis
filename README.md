@@ -1,2 +1,4 @@
 # Thesis
- Analysis and data for my thesis on presidential traveling for Columbia Uni M.S Data Journalism progrma
+ Analysis and data for my thesis on superpower presidential traveling for Columbia Uni M.S Data Journalism program
+ 
+ Notebooks include scraping of Kremlin, China Vitae and Office of the Historian pages to get the traveling data by Chinese and Russian presidents 2001-2019 as well as the data analysis.
