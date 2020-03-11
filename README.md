@@ -3,4 +3,4 @@
  
  Notebooks include scraping of Kremlin, China Vitae and Office of the Historian pages to get the traveling data by Chinese and Russian presidents 2001-2019. The data analysis is in three different notebooks, one for mapping and basic analysis, one for dmocracy and gdp analysis and one for economical crisis analysis. 
  
- The maps as svh and Illustrator-polsihed versions can be found in maps folder.
+ The maps as svg and Illustrator-polished versions as well as the graph can be found in maps folder.
